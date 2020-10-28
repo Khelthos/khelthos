@@ -12,9 +12,9 @@
 | What I have worked on in the past  | The languages I work with | The stack I am familiar with | The language/framework I'm learning | The language/Framework I'm interested next |
 |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |
 | <img src="./images/csharp_dotnet_button_icon_151936.svg" alt="dotnet" height="25"/>  | <img src="./images/bash_button_icon_151886.svg" alt="bash" height="25"/> | <img src="./images/html_button_icon_151929.svg" alt="html" height="25"/>  | Content Cell  | Content Cell  |
-| <img src="./images/unity_button_icon_151945.svg" alt="unity" height="25"/>  |   | <img src="./images/css_button_icon_151935.svg" alt="css" height="25"/>  | Content Cell  | Content Cell  |
-| <img src="./images/godot_button_icon_151956.svg" alt="godot" height="25"/>  |   | <img src="./images/js_button_icon_151927.svg" alt="javascript" height="25"/>  | Content Cell  | Content Cell  |
-|   | Content Cell  | <img src="./images/react_button_icon_151947.svg" alt="react" height="25"/> |   | Content Cell  |
+| <img src="./images/unity_button_icon_151945.svg" alt="unity" height="25"/>  | <img src="./images/redhat_original_logo_icon_146372.svg" alt="redhat" height="25"/> | <img src="./images/css_button_icon_151935.svg" alt="css" height="25"/>  | Content Cell  | Content Cell  |
+| <img src="./images/godot_button_icon_151956.svg" alt="godot" height="25"/>  | <img src="./images/prog-basic_icon-icons.com_50814.png" alt="basic" height="25" filter="invert(1)"/> | <img src="./images/js_button_icon_151927.svg" alt="javascript" height="25"/>  | Content Cell  | Content Cell  |
+|   | <img src="./images/c_plain_logo_icon_146610.svg" alt="c" height="25"/>  | <img src="./images/react_button_icon_151947.svg" alt="react" height="25"/> |   | Content Cell  |
 |   | Content Cell  | <img src="./images/bootstrap_button_icon_151958.svg" alt="bootstrap" height="25"/> |   | Content Cell  |
 |   | Content Cell  | <img src="./images/nodejs_button_icon_151951.svg" alt="nodejs" height="25"/> |   | Content Cell  |
 |   | Content Cell  | <img src="./images/npm_button_icon_151891.svg" alt="npm" height="25"/> |   | Content Cell  |
