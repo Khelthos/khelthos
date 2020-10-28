@@ -9,6 +9,14 @@
 - 💬 Ask me about **Javascript, Bash shell and React**
 - 📫 How to reach me **dn.umberto@gmail.com**
 
+| Column header 1 | Column header 2 |
+
+| ---------------|----------------|
+
+| content 1 |content 2|
+
+| content 1 |content 2|
+
 | What I work on in the past | The languages I work with | The stack I am familiar with | The language/framework I'm learning | The language/Framework I'm interested next |
 
 |---------------|----------------|----------------|----------------|----------------|
