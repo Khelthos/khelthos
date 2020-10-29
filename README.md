@@ -2,7 +2,7 @@
 
 <h3 align="center">A Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khelthos" alt="khelthos" /> </p><p align="right">![Khelthos's github stats](https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=tokyonight)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khelthos" alt="khelthos" /> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=tokyonight" alt="khelthos" /></p>tokyonight
 
 - 🔭 I’m currently working on **Vet Dashboard**
 - 🌱 I’m currently learning **MERN stack**
