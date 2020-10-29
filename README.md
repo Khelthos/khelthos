@@ -5,11 +5,16 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=tokyonight" alt="khelthos" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=synthwave" alt="khelthos" /></p>
 - 🔭 I’m currently working on **a simple learning platform Frontend+Backend**
 - 🌱 I’m currently learning the **MERN stack**
 - 💬 Ask me about **Javascript, Bash shell and React**
 - 📫 How to reach me **dn.umberto@gmail.com**
+
+---
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelthos&layout=compact&theme=synthwave" alt="khelthos" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khelthos&theme=synthwave" alt="khelthos" /></p>
 
 ---
 
