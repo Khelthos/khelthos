@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 32" width="130" height="32">
+	<defs>
+		<image width="128" height="128" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDM1OTlDIiBkPSJNMTE3LjUgMzMuNWwuMy0uMmMtLjYtMS4xLTEuNS0yLjEtMi40LTIuNmwtNDguMy0yNy44Yy0uOC0uNS0xLjktLjctMy4xLS43LTEuMiAwLTIuMy4zLTMuMS43bC00OCAyNy45Yy0xLjcgMS0yLjkgMy41LTIuOSA1LjR2NTUuN2MwIDEuMS4yIDIuMy45IDMuNGwtLjIuMWMuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40di01NS44Yy4xLS44IDAtMS43LS40LTIuNnptLTUzLjUgNTVjOS4xIDAgMTcuMS01IDIxLjMtMTIuNGwxMi45IDcuNmMtNi44IDExLjgtMTkuNiAxOS44LTM0LjIgMTkuOC0yMS44IDAtMzkuNS0xNy43LTM5LjUtMzkuNXMxNy43LTM5LjUgMzkuNS0zOS41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVjLTQuMi03LjUtMTIuMi0xMi41LTIxLjMtMTIuNS0xMy41IDAtMjQuNSAxMS0yNC41IDI0LjVzMTEgMjQuNSAyNC41IDI0LjV6Ii8+PC9zdmc+Cg=="/>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="0" y1="0" x2="0" y2="32">
+			<stop offset="0" stop-color="#bbbbbb" stop-opacity="0.1" />
+			<stop offset="1" stop-color="#000000" stop-opacity="0.1" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #0f1418 } 
+		.shp1 { fill: #ffffff } 
+		.shp2 { fill: url(#grd1) } 
+	</style>
+	<path id="Layer" class="shp0" d="M125 0L31 0L31 32L125 32C127.76 32 130 29.76 130 27L130 5C130 2.24 127.76 0 125 0Z" />
+	<path id="Layer" class="shp1" d="M31 0L5 0C2.24 0 0 2.24 0 5L0 27C0 29.76 2.24 32 5 32L31 32L31 0Z" />
+	<use id="c_plain_logo_icon_146610" href="#img1" transform="matrix(0.25,0,0,0.25,0,0)"/>
+	<path id="Layer" class="shp2" d="M125 0L5 0C2.24 0 0 2.24 0 5L0 27C0 29.76 2.24 32 5 32L125 32C127.76 32 130 29.76 130 27L130 5C130 2.24 127.76 0 125 0Z" />
+	<path id="C" fill="#ffffff" d="M84.88 11.25L84.67 13.14Q84.19 12.85 83.64 12.69Q83.09 12.54 82.51 12.54Q81.16 12.54 80.36 13.32Q79.56 14.1 79.56 15.44Q79.56 16.77 80.38 17.56Q81.2 18.35 82.55 18.35Q82.86 18.35 83.09 18.32Q83.33 18.3 83.64 18.22Q84.22 18.08 84.76 17.83L84.91 19.85Q84.26 20.03 83.6 20.12Q82.94 20.21 82.3 20.21Q79.85 20.21 78.48 18.95Q77.11 17.7 77.11 15.44Q77.11 13.29 78.46 12.03Q79.82 10.76 82.13 10.76Q82.93 10.76 83.61 10.88Q84.29 11 84.88 11.25Z" />
+</svg>
