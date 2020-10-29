@@ -5,8 +5,8 @@
 
 ---
 
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=synthwave" alt="khelthos" />
+<p align="center">
+<img align="center"src="https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=synthwave" alt="khelthos" />
 
 - 🔭 I’m currently working on **a simple learning platform Frontend+Backend**
 - 🌱 I’m currently learning the **MERN stack**
