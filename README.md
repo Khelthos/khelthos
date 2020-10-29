@@ -24,7 +24,7 @@
 
 ---
 
-| What I have worked on in the past  | The languages I work with | The stack I am familiar with | The language/framework I'm learning | The language/Framework I'm interested next |
+| What I have worked on in the past  | The tools I work with | The stack I am familiar with | The languages/frameworks I'm learning | The languages/frameworks I'm interested next |
 |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |
 | <img src="./images/csharp_dotnet_button_icon_151936.svg" alt="dotnet" height="25"/> | <img src="./images/bash_button_icon_151886.svg" alt="bash" height="25"/> | <img src="./images/html_button_icon_151929.svg" alt="html" height="25"/> | <img src="./images/mongodb_button_icon_151960-svg.svg" alt="mongodb" height="25"/> | <img src="./images/python_button_icon_151925.svg" alt="python" height="25"/> |
 | <img src="./images/unity_button_icon_151945.svg" alt="unity" height="25"/> | <img src="./images/redhat_button_icon_146372.svg" alt="redhat" height="25"/> | <img src="./images/css_button_icon_151935.svg" alt="css" height="25"/> | <img src="./images/nextjs_button_icon_151960-svg.svg" alt="nextjs" height="25"/> | <img src="./images/django_button_icon_151960-svg.svg" alt="django" height="25"/> |
