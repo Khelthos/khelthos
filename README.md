@@ -6,7 +6,6 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=tokyonight" alt="khelthos" /></p>
-
 - 🔭 I’m currently working on **a simple learning platform Frontend+Backend**
 - 🌱 I’m currently learning the **MERN stack**
 - 💬 Ask me about **Javascript, Bash shell and React**
