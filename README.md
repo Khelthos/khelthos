@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Umberto</h1>
 
 <h3 align="center">A Full Stack Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khelthos" alt="khelthos" /> <img src="./images/devto_button_icon_151966.svg" alt="khelthos" /> <img src="./images/instagram_button_icon_151849.svg" alt="khelthos" /> <img src="./images/linkedin_button_icon_151847.svg" alt="khelthos" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khelthos" alt="khelthos" /> <img src="./images/devto_button_icon_151966.svg" alt="khelthos" height="20" /> <img src="./images/instagram_button_icon_151849.svg" alt="khelthos" height="20" /> <img src="./images/linkedin_button_icon_151847.svg" alt="khelthos" height="20" /></p>
+
 ---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=khelthos&show_icons=true&theme=tokyonight" alt="khelthos" /></p>
 
 - 🔭 I’m currently working on **a simple learning platform Frontend+Backend**
