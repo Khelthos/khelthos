@@ -20,7 +20,7 @@
 <h3 align="center">My Github Stats</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelthos&layout=compact&theme=synthwave" alt="khelthos" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khelthos&theme=synthwave" alt="khelthos" /></p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=khelthos&layuout=compact&theme=synthwave" alt="khelthos" /></p>
 
 ---
 
